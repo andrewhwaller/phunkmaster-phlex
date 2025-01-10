@@ -17,7 +17,7 @@ class ApplicationLayout < ApplicationView
       end
 
       body do
-        main(&block)
+        main(class: "flex flex-col", &block)
       end
     end
   end
