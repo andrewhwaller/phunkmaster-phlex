@@ -65,6 +65,6 @@ end
 
 gem "phlex-rails", "~> 1.2"
 
-gem "standard", "~> 1.43"
+gem "standard", "~> 1.45"
 
 gem "tailwindcss-rails", "~> 3.1"
